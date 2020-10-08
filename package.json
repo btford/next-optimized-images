@@ -26,7 +26,7 @@
   "dependencies": {
     "@svgr/core": "^5.4.0",
     "file-loader": "^6.0.0",
-    "optimized-images-loader": "^0.4.0",
+    "optimized-images-loader": "btford/optimized-images-loader#feature/optin-imagemin",
     "react-optimized-image": "^0.4.1"
   },
   "devDependencies": {
